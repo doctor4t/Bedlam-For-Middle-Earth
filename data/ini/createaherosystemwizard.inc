@@ -15,8 +15,8 @@ CreateAHeroClass
 		ButtonImage	   = HICAHWanderer
 		// In UI it should be  		=  HICAHWanderer_wotr
 		// DefaultFaction              = Isengard 
-		UsableFactions              = Men Elves Dwarves Isengard Mordor Wild 
-		SpendableAttributePoints        = 30
+		UsableFactions = Men Elves Dwarves Mordor Isengard Wild
+		SpendableAttributePoints = 666
 		UpgradeName	   = Upgrade_CreateAHero_SubClass_0
 		//-------------------------------
 		// Awards common to all heros.
@@ -128,8 +128,8 @@ CreateAHeroClass
 		ButtonImage	   = HICAHAvatar
 		// In UI it should be  		=  HICAHAvatar_wotr
 		// DefaultFaction              = Men 
-		UsableFactions              = Men Elves Dwarves Isengard Mordor Wild 
-		SpendableAttributePoints        = 30
+		UsableFactions = Men Elves Dwarves Mordor Isengard Wild
+		SpendableAttributePoints = 666
 		
 		//-------------------------------
 		// Awards common to all heros.
@@ -237,8 +237,8 @@ CreateAHeroClass
 		ButtonImage	   = HICAHHermit
 		// In UI it should be  		=  HICAHHermit_wotr
 		//DefaultFaction              = Wild 
-		UsableFactions              = Men Elves Dwarves Isengard Mordor Wild 
-		SpendableAttributePoints        = 30
+		UsableFactions = Men Elves Dwarves Mordor Isengard Wild
+		SpendableAttributePoints = 666
 		
 		//-------------------------------
 		// Awards common to all heros.
