@@ -14,9 +14,9 @@ CreateAHeroClass
 		UpgradeName		  =	Upgrade_CreateAHero_SubClass_0
 		IconImage         = CPEasterling
 		ButtonImage       = HICAHEasterling
-		SpendableAttributePoints        = 30
+		SpendableAttributePoints = 666
 		// DefaultFaction              = Wild 
-		UsableFactions              = Isengard Mordor Wild 
+		UsableFactions = Men Elves Dwarves Mordor Isengard Wild
 		// In UI it should be  		=  HICAHEasterling_wotr
 
 		//-------------------------------
@@ -119,8 +119,8 @@ CreateAHeroClass
 		ButtonImage       = HICAHHaradrim
 		// In UI it should be  		=  HICAHHaradrim_wotr
 		DefaultFaction              = Mordor 
-		UsableFactions              = Isengard Mordor Wild 
-		SpendableAttributePoints        = 30
+		UsableFactions = Men Elves Dwarves Mordor Isengard Wild
+		SpendableAttributePoints = 666
 		
 		UpgradeName			  =	Upgrade_CreateAHero_SubClass_1
 		//-------------------------------

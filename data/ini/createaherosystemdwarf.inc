@@ -13,9 +13,9 @@ CreateAHeroClass
 		DescriptionTag	  =	CreateAHero:SubClassDesc_Taskmaster
 		IconImage         = CPDwarfTaskmaster
 		ButtonImage       = HICAHDwarfTaskmaster
-		SpendableAttributePoints        = 30
+		SpendableAttributePoints = 666
 		// DefaultFaction              = Dwarves 
-		UsableFactions              = Men Elves Dwarves
+		UsableFactions = Men Elves Dwarves Mordor Isengard Wild
 		// In UI it should be  		=  HICAHDwarfTaskmaster_wotr
 		
 		UpgradeName		  =	Upgrade_CreateAHero_SubClass_0
@@ -125,8 +125,8 @@ CreateAHeroClass
 		ButtonImage       = HICAHDwarfSage
 		// In UI it should be  		=  HICAHDwarfSage_wotr
 		DefaultFaction              = Dwarves 
-		UsableFactions              = Men Elves Dwarves
-		SpendableAttributePoints        = 30
+		UsableFactions = Men Elves Dwarves Mordor Isengard Wild
+		SpendableAttributePoints = 666
 		
 		UpgradeName			  =	Upgrade_CreateAHero_SubClass_1
 
