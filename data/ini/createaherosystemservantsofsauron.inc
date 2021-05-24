@@ -14,8 +14,8 @@ CreateAHeroClass
 		IconImage         = CPTroll
 		ButtonImage       = HICAHTroll
 		//DefaultFaction              = Mordor 
-		UsableFactions = Men Elves Dwarves Mordor Isengard Wild
-		SpendableAttributePoints = 666
+		UsableFactions              = Isengard Mordor Wild 
+		SpendableAttributePoints        = 15
 		// In UI it should be  		=  HICAHTroll_wotr
 
 		UpgradeName			  =	Upgrade_CreateAHero_SubClass_0
@@ -123,8 +123,8 @@ CreateAHeroClass
 		ButtonImage       = HICAHOrcRaider
 		// In UI it should be  		=  HICAHOrcRaider_wotr
 		DefaultFaction              = Wild 
-		UsableFactions = Men Elves Dwarves Mordor Isengard Wild
-		SpendableAttributePoints = 666
+		UsableFactions              = Isengard Mordor Wild 
+		SpendableAttributePoints        = 30
 		
 		UpgradeName			  =	Upgrade_CreateAHero_SubClass_2
 		//-------------------------------
@@ -229,8 +229,8 @@ CreateAHeroClass
 		ButtonImage       = HICAHUrukHai
 		// In UI it should be  		=  HICAHUrukHai_wotr
 		DefaultFaction              = Isengard 
-		UsableFactions = Men Elves Dwarves Mordor Isengard Wild
-		SpendableAttributePoints = 666
+		UsableFactions              = Isengard Mordor Wild 
+		SpendableAttributePoints        = 30
 		
 		UpgradeName			  =	Upgrade_CreateAHero_SubClass_3
 		//-------------------------------

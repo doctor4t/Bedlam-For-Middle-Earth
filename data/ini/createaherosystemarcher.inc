@@ -16,9 +16,9 @@ CreateAHeroClass
 		IconImage			  = CPMaleElfArcher
 		ButtonImage          			 = HICAHMaleElfArcher
 		// In UI it should be  		=  HICAHMaleElfArcher_wotr
-		SpendableAttributePoints = 666
+		SpendableAttributePoints        = 30
 		//DefaultFaction              = Elves 
-		UsableFactions = Men Elves Dwarves Mordor Isengard Wild
+		UsableFactions              = Men Elves Dwarves
 		UpgradeName			  =	Upgrade_CreateAHero_SubClass_0
 //-------------------------------
 // Awards common to all heros.
@@ -127,8 +127,8 @@ CreateAHeroClass
 		ButtonImage	   = HICAHFemaleElvenArcher
 		// In UI it should be  	=  HICAHFemaleElvenArcher_wotr
 		DefaultFaction              = Elves 
-		UsableFactions = Men Elves Dwarves Mordor Isengard Wild
-		SpendableAttributePoints = 666
+		UsableFactions              = Men Elves Dwarves 
+		SpendableAttributePoints        = 30
 
 		UpgradeName	   = Upgrade_CreateAHero_SubClass_1
 		//-------------------------------

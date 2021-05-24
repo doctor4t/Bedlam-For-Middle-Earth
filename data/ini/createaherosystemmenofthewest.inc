@@ -16,8 +16,8 @@ CreateAHeroClass
 		ButtonImage           		= HICAHCaptainGondor
 		// In UI it should be  		=  HICAHCaptainGondor_wotr
 		DefaultFaction              = Men 
-		UsableFactions = Men Elves Dwarves Mordor Isengard Wild
-		SpendableAttributePoints = 666
+		UsableFactions              = Men Elves Dwarves
+		SpendableAttributePoints        = 28
 		
 		UpgradeName			  =	Upgrade_CreateAHero_SubClass_0
 		//-------------------------------
@@ -131,8 +131,8 @@ CreateAHeroClass
 		ButtonImage           = HICAHShieldMaiden
 		// In UI it should be  		=  HICAHShieldMaiden_wotr
 		//DefaultFaction              = Men 
-		UsableFactions = Men Elves Dwarves Mordor Isengard Wild
-		SpendableAttributePoints = 666
+		UsableFactions              = Men Elves Dwarves
+		SpendableAttributePoints        = 28
 		
 		UpgradeName			  =	Upgrade_CreateAHero_SubClass_1
 		//-------------------------------
